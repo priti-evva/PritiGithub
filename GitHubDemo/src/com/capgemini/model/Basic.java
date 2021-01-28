@@ -6,6 +6,8 @@ public class Basic {
 		System.out.println("My name is Priti");
 		//hey priti
 		//bye
+		System.out.println("My name is Piya");
+		
 		}
 
 }
